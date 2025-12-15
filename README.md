@@ -1,28 +1,36 @@
-## Usage
+New year countdown project
 
+This website is a timer app that counts the percentage of the year that has passed.
+
+It also displays the current time and the percentage in the form of a progress bar:
+
+Installation
+
+You can clone the repository to first copy all the required files.
+
+Then, run
 ```bash
-$ npm install # or pnpm install or yarn install
+bun install
 ```
+or
+```bash
+npm install
+```
+or
+```bash
+pnpm install
+```
+to install all the required packages.
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+After installing the packages, please run the dev server.
 
-## Available Scripts
+## Packages/libraries used:
+* TypeScript
+* Solid.js
+* Vite
+* TailwindCSS
+* SolidUI
 
-In the project directory, you can run:
 
-### `npm run dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
+---
+If you have any question left, please feel free to contact me through my X account @firedingoo
