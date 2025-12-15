@@ -42,7 +42,7 @@ function App() {
         />
       </div>
       <p>{currentTime()}</p>
-      <p>{percentchange()} % is done</p>
+      <p>{percentchange().toFixed(8)} % done</p>
       <Callout class="max-w-80 m-auto my-8">
         <CalloutTitle>About this website</CalloutTitle>
         <CalloutContent>
