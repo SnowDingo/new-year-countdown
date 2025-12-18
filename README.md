@@ -1,4 +1,7 @@
-New year countdown project
+# New year countdown project
+
+![Home](/src/assets/Home.png)
+
 
 This website is a timer app that counts the percentage of the year that has passed.
 
